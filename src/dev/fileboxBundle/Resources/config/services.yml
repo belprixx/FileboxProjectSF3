@@ -1,0 +1,4 @@
+services:
+#    devfilebox.example:
+#        class: dev\fileboxBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

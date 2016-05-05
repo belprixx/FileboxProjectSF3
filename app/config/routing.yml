@@ -1,0 +1,13 @@
+devfilebox:
+    resource: "@devfileboxBundle/Controller/"
+    type:     annotation
+    prefix:   /filebox
+
+theo_blog:
+    resource: "@theoBlogBundle/Controller/"
+    type:     annotation
+    prefix:   /blog
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
