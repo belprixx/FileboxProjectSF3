@@ -12,6 +12,6 @@ class DefaultController extends Controller
      */
     public function indexAction()
     {
-        return $this->render('devfileboxBundle:Default:index.html.twig');
+        return $this->render('devfileboxBundle:Default:home.html.twig');
     }
 }
